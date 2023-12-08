@@ -14,8 +14,8 @@ const tellMe = (joke) => {
     VoiceRSS.speech({
         key: '29a4737211014f74aaef0b8de559a7fd',
         src: joke,
-        hl: 'en-au',
-        v: 'Zoe',
+        hl: 'en-us',
+        v: 'Linda',
         r: 0,
         c: 'mp3',
         f: '44khz_16bit_stereo',
